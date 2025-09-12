@@ -1,4 +1,4 @@
-package linkedinpractise;
+package linkedinpractise.string;
 
 public class BasicStringParsingAndSearching {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package linkedinpractise;
+package linkedinpractise.string;
 
 public class IsUpperCaseOrIsLowerCase {
     public static boolean isUpperCase(String s) {

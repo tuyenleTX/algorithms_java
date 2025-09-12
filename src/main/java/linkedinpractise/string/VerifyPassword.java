@@ -1,4 +1,4 @@
-package linkedinpractise;
+package linkedinpractise.string;
 
 public class VerifyPassword {
     public static void main(String[] args) {

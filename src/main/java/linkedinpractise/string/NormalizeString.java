@@ -1,4 +1,4 @@
-package linkedinpractise;
+package linkedinpractise.string;
 
 import java.util.Locale;
 
