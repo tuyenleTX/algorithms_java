@@ -1,5 +1,7 @@
 package linkedinpractise.array;
 
+import java.util.Arrays;
+
 //assuming: array is sorted ascending
 //time: O(log(n))
 public class BinarySearchInArray {
@@ -7,6 +9,8 @@ public class BinarySearchInArray {
         int[] a = {1,2,3,4,5,6};
         System.out.println(binarySearch(a, 3));
         System.out.println(binarySearch(a, 7));
+
+        System.out.println(Arrays.binarySearch(a, 4));//return index
     }
     public static boolean binarySearch(int[] a, int item) {
         int min = 0;
